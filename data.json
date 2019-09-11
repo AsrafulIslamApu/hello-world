@@ -1,34 +1,34 @@
 {  
   "data"     :     [  
        {  
-            "companyName": "Aramit Limited",  
-            "ltd": "351",  
-            "%change": "4.589" ,
-            "closeP": "35.7",
-            "ycp": "335.6" 
+            "companyName": "SEML FBSL Growth Fund",  
+            "ltd": "19.5",  
+            "%change": "9.551" ,
+            "closeP": "19.4",
+            "ycp": "17.8" 
        },  
        {  
-        "companyName": "Bank Asia Ltd.",  
-        "ltd": "17.5",  
-        "%change": "1.116" ,
-        "closeP": "17.3",
+        "companyName": "Prime Finance First Mutual Fund",  
+        "ltd": "16.2",  
+        "%change": "9.459" ,
+        "closeP": "16.2",
         "ycp": "14.8" 
         }, 
         {  
-          "companyName": "Green Delta Insurance Ltd. ",  
+          "companyName": "Standard Ceramic Industries Ltd.",  
           "ltd": "415.2",  
           "%change": "7.315" ,
-          "closeP": "41.1",
+          "closeP": "413.1",
           "ycp": "386.9" 
         },
         {  
-          "companyName": "Keya Cosmetics Ltd.",  
-          "ltd": "49.4",  
-          "%change": "2.080" ,
-          "closeP": "48.5",
-          "ycp": "44.2" 
+          "companyName": "Dulamia Cotton Mills Ltd.",  
+          "ltd": "48.4",  
+          "%change": "7.080" ,
+          "closeP": "47.4",
+          "ycp": "45.2" 
         }
-          
+            
       
   ]  
 }  
