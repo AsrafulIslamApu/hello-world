@@ -2,28 +2,28 @@
   "data"     :     [  
        {  
             "companyName": "Aramit Limited",  
-            "ltp": "351",  
+            "ltd": "351",  
             "%change": "4.589" ,
             "closeP": "35.7",
             "ycp": "335.6" 
        },  
        {  
         "companyName": "Bank Asia Ltd.",  
-        "ltp": "17.5",  
+        "ltd": "17.5",  
         "%change": "1.116" ,
         "closeP": "17.3",
         "ycp": "14.8" 
         }, 
         {  
           "companyName": "Green Delta Insurance Ltd. ",  
-          "ltp": "415.2",  
+          "ltd": "415.2",  
           "%change": "7.315" ,
           "closeP": "41.1",
           "ycp": "386.9" 
         },
         {  
           "companyName": "Keya Cosmetics Ltd.",  
-          "ltp": "49.4",  
+          "ltd": "49.4",  
           "%change": "2.080" ,
           "closeP": "48.5",
           "ycp": "44.2" 
